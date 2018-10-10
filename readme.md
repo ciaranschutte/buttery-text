@@ -1,0 +1,1 @@
+Weird text react components
